@@ -1,4 +1,4 @@
 # Linear-Regression
    Here!!!
-      We are trying to solve a dataset with multiple ways.
+      We are trying to solve a dataset in multiple ways.
    
